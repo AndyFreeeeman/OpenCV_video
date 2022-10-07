@@ -1,3 +1,8 @@
+# 輸入整個資料夾的video
+# 生成路徑 3_min_screenshot  ---  xxxx.mpg
+#                           ---  xxxx.mpg
+# 路徑內儲存每隔三分鐘的影片frame 命名 3min.jpg....
+
 import os
 import cv2
 from IPython.display import clear_output
